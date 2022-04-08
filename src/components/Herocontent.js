@@ -1,5 +1,5 @@
 import React from "react";
-import "@progress/kendo-theme-material/dist/all.css";
+import "@progress/kendo-theme-bootstrap-dark/dist/all.css";
 import { Grid, GridColumn } from "@progress/kendo-react-grid";
 import { process } from "@progress/kendo-data-query";
 
